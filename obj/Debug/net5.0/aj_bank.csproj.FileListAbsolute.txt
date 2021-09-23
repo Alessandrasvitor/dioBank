@@ -1,0 +1,16 @@
+C:\Workspace\P_Estudos\aj_bank\bin\Debug\net5.0\aj_bank.exe
+C:\Workspace\P_Estudos\aj_bank\bin\Debug\net5.0\aj_bank.deps.json
+C:\Workspace\P_Estudos\aj_bank\bin\Debug\net5.0\aj_bank.runtimeconfig.json
+C:\Workspace\P_Estudos\aj_bank\bin\Debug\net5.0\aj_bank.runtimeconfig.dev.json
+C:\Workspace\P_Estudos\aj_bank\bin\Debug\net5.0\aj_bank.dll
+C:\Workspace\P_Estudos\aj_bank\bin\Debug\net5.0\ref\aj_bank.dll
+C:\Workspace\P_Estudos\aj_bank\bin\Debug\net5.0\aj_bank.pdb
+C:\Workspace\P_Estudos\aj_bank\obj\Debug\net5.0\aj_bank.csproj.AssemblyReference.cache
+C:\Workspace\P_Estudos\aj_bank\obj\Debug\net5.0\aj_bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\P_Estudos\aj_bank\obj\Debug\net5.0\aj_bank.AssemblyInfoInputs.cache
+C:\Workspace\P_Estudos\aj_bank\obj\Debug\net5.0\aj_bank.AssemblyInfo.cs
+C:\Workspace\P_Estudos\aj_bank\obj\Debug\net5.0\aj_bank.csproj.CoreCompileInputs.cache
+C:\Workspace\P_Estudos\aj_bank\obj\Debug\net5.0\aj_bank.dll
+C:\Workspace\P_Estudos\aj_bank\obj\Debug\net5.0\ref\aj_bank.dll
+C:\Workspace\P_Estudos\aj_bank\obj\Debug\net5.0\aj_bank.pdb
+C:\Workspace\P_Estudos\aj_bank\obj\Debug\net5.0\aj_bank.genruntimeconfig.cache
