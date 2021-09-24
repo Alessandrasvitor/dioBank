@@ -6,11 +6,36 @@ namespace aj_bank.model
     public class Conta
     {
         public static long NumeroAtual { get; set; }
-        public long Numero { get; set; }
-        public string Nome { get; set; }
-        public double Saldo { get; set; }
-        public double Lis { get; set; }
-        public TipoConta Tipo { get; set; }
+        private long _numero;
+        public long Numero
+        {
+            get => _numero;
+            set => _numero = value;
+        }
+        private string _nome;
+        public string Nome
+        {
+            get => _nome;
+            set => _nome = value;
+        }
+        private double _saldo;
+        public double Saldo
+        {
+            get => _saldo;
+            set => _saldo = value;
+        }
+        private double _lis;
+        public double Lis
+        {
+            get => _lis;
+            set => _lis = value;
+        }
+        private TipoConta _tipo;
+        public TipoConta Tipo
+        {
+            get => _tipo;
+            set => _tipo = value;
+        }
 
         public Conta (string nome, double saldo, double lis, TipoConta tipo)
         {
